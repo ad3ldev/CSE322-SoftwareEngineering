@@ -30,7 +30,7 @@ e.How many Offices of a Building can exist?
 
 ## Part 3
 
-Draw a class diagram representing the relationship between parents and children. Take intoaccount that a person can have both a parent and a child. Annotate associations with roles andmultiplicities.
+Draw a class diagram representing the relationship between parents and children. Take into account that a person can have both a parent and a child. Annotate associations with roles and multiplicities.
 
 ![part3 uml](part3.svg)
 
