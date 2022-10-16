@@ -1,4 +1,4 @@
-package second;
+package part2;
 
 public class Building {
     public String address;

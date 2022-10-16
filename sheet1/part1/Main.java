@@ -1,15 +1,11 @@
-package first;
-
-import java.awt.*;
-import java.util.Date;
-import java.util.LinkedList;
+package part1;
 
 public class Main {
     public static void main(String[] args) {
-        Animal animal = new Animal("animal", new Date());
-        Person person = new Person("person", new Date(), "+123456789", "job");
-        DogOwner owner = new DogOwner("owner", new Date(), new LinkedList<Dog>(), "+123456789", "job");
-        Dog dog = new Dog("dog", new Date(), new Color(255, 255, 255), owner);
+        Animal animal = new Animal();
+        Person person = new Person();
+        DogOwner owner = new DogOwner();
+        Dog dog = new Dog();
 
 //      1.a
         animal.eat();

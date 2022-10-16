@@ -1,4 +1,4 @@
-package second;
+package part2;
 
 public class SalariedEmployee extends Employee{
     public float weeklyPay;
