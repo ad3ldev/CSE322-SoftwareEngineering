@@ -10,7 +10,7 @@ public class Main {
         Office office = new Office();
 
         //2.a
-        // Only one instance of office
+        // No office for hourly
 
         //2.b
         System.out.println(salariedEmployee.name);
